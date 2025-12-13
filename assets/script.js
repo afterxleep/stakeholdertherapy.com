@@ -1,6 +1,6 @@
 async function loadStatements() {
     try {
-        const response = await fetch('/statements-curated.json');
+        const response = await fetch('/statements.json');
         const statements = await response.json();
         displayRandomStatement(statements);
     } catch (error) {

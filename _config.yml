@@ -15,6 +15,10 @@ exclude:
   - .git
   - .gitignore
 
+# Include headers file
+include:
+  - _headers
+
 # Plugins
 plugins:
   - jekyll-feed
