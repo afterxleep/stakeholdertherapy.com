@@ -1,0 +1,21 @@
+title: Stakeholder Therapy
+description: Thoughts on work, tech, and staying human through both.
+url: "https://stakeholdertherapy.com"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - migrate_wp_to_jekyll.py
+  - .git
+  - .gitignore
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

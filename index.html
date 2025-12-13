@@ -1,0 +1,33 @@
+---
+layout: default
+title: Home
+---
+
+<section class="manifesto">
+  <div class="statement" id="statement"></div>
+</section>
+
+<section class="recent-posts">
+  <h2>Recent</h2>
+  <ul class="post-list">
+    {% for post in site.posts limit:5 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="most-read">
+  <h2>Highlights</h2>
+  <ul class="post-list">
+    {% assign most_read = site.posts | sort: "date" | reverse %}
+    {% for post in most_read limit:5 offset:5 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="view-all">
+  <a href="/archive/" class="view-all-link">View All →</a>
+</section>
+
+<script src="/assets/script.js"></script>
