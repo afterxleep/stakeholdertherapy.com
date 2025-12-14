@@ -459,7 +459,7 @@
   {% feed_meta %}
 </head>
 <body>
-  <button class="theme-toggle" onclick="toggleTheme()">☀</button>
+  <button class="theme-toggle" onclick="toggleTheme()">○</button>
   <div class="container">
     <header>
       <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
@@ -491,10 +491,10 @@
 
       if (newTheme === 'light') {
         body.classList.add('light-theme');
-        button.textContent = '🌙';
+        button.textContent = '◑';
       } else {
         body.classList.remove('light-theme');
-        button.textContent = '☀';
+        button.textContent = '○';
       }
 
       localStorage.setItem('theme-override', newTheme);
@@ -509,10 +509,10 @@
 
       if (theme === 'light') {
         body.classList.add('light-theme');
-        button.textContent = '🌙';
+        button.textContent = '◑';
       } else {
         body.classList.remove('light-theme');
-        button.textContent = '☀';
+        button.textContent = '○';
       }
     }
 
