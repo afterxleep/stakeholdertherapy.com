@@ -21,7 +21,6 @@ social:
 
 # SEO
 lang: en_US
-logo: /assets/logo.png
 
 # Build settings
 markdown: kramdown
