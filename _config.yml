@@ -3,6 +3,26 @@ description: No bullshit. Occasionally hopeful.
 url: "https://stakeholdertherapy.com"
 baseurl: ""
 
+# Author
+author:
+  name: Daniel Bernal
+  url: https://danielbernal.co
+
+# Social
+twitter:
+  username: afterxleep
+  card: summary_large_image
+
+social:
+  name: Daniel Bernal
+  links:
+    - https://twitter.com/afterxleep
+    - https://github.com/afterxleep
+
+# SEO
+lang: en_US
+logo: /assets/logo.png
+
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
@@ -18,8 +38,10 @@ exclude:
 # Include headers file
 include:
   - _headers
+  - robots.txt
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
