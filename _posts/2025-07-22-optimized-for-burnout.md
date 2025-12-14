@@ -4,7 +4,6 @@ title: "Optimized for burnout"
 date: 2025-07-22
 ---
 
-![Featured image](/images/simon-berger-GFhWRx3xLhg-unsplash.jpg)
 
 Hero culture is a scam built on a beautiful lie: Caring means suffering. We celebrate people who work impossible hours, and call that ownership, leadership, and dedication.
 
@@ -18,4 +17,3 @@ Those working themselves to the ground aren’t heroes; they’re victims of a b
   
 Instead of optimizing for sending people home on time, we optimize around breaking them. Even today, we are still building teams around celebrating casualties of a fucked up culture.
 
-Photo by [Simon Berger](https://unsplash.com/@simon_berger?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/monkey-looking-in-people-during-daytime-GFhWRx3xLhg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

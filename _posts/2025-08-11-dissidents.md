@@ -4,7 +4,6 @@ title: "Dissidents"
 date: 2025-08-11
 ---
 
-![Featured image](/images/IMG_1831.jpeg)
 
 There’s a growing trend of hunting down “problematic” words while systematically silencing thoughts. While someone decides “brown bag lunch” is offensive, the person who questions a stupid roadmap gets labeled “not a culture fit.”
 

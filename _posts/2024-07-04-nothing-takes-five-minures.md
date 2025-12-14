@@ -4,7 +4,6 @@ title: "Nothing takes five minutes"
 date: 2024-07-04
 ---
 
-![Featured image](/images/scott.jpeg)
 
 “It will just take you five minutes” is one of the most toxic lines you can hear.
 

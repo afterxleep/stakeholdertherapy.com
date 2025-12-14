@@ -4,7 +4,6 @@ title: "Try the unconventional"
 date: 2024-06-25
 ---
 
-![Featured image](/images/chuck-1480x617.jpg)
 
 Standards made sense 100 years ago. Efficiency and consistency were vital then. Today, they often don’t fit.
 

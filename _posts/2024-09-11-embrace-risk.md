@@ -4,7 +4,6 @@ title: "Embrace Risk"
 date: 2024-09-11
 ---
 
-![Featured image](/images/meric-dagli-XkcnfE_GO30-unsplash-copy.jpeg)
 
 Learn to accept risks and live by them. Removing every possible risk results in bland, uninspired work that aims to offend no one.
 
@@ -12,4 +11,3 @@ De-risking everything makes you ship average shit. The fear of failure and makin
 
 You should be embracing risks, not removing them.
 
-Photo by [Meriç Dağlı](https://unsplash.com/@meric?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/teal-and-purple-risk-neon-signage-XkcnfE_GO30?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

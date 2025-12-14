@@ -4,7 +4,6 @@ title: "Lawyers of expertise"
 date: 2025-09-09
 ---
 
-![Featured image](/images/scott-webb-9aPxwfZusmE-unsplash.jpg)
 
 Real work happens in the details outsiders won’t see. Tradeoffs between perfect and possible. Hundreds of choices that compound into something that actually works.
 
@@ -16,4 +15,3 @@ Trust dies as we all become lawyers of expertise, forced to justify well-thought
 
 Some places build cultures that break the people who care the most.​​​​​​​​​​​​​​​ Others understand that expertise earned through decisions deserves respect, not cross-examination. These places don’t just build better products; they build better people.
 
-Photo by [Scott Webb](https://unsplash.com/@scottwebb?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/orange-and-black-glass-building-at-daytime-9aPxwfZusmE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

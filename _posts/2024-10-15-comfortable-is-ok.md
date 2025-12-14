@@ -4,7 +4,6 @@ title: "Comfortable is OK"
 date: 2024-10-15
 ---
 
-![Featured image](/images/anna-pascale-QE-EpRr8OkM-unsplash-copy.jpeg)
 
 The next promotion, the next chance to earn more, gain influence, or power. Ambition is just another measure of worth at work. If you’re not ambitious, someone else will snatch your job away.
 
@@ -18,4 +17,3 @@ Some people want to do their job and be done for the day. That’s perfectly fin
 
 Figure out what it takes to become a better person, not just a better employee. That’s the only growth that matters in the long run
 
-Photo by [Anna Pascale](https://unsplash.com/@annapascale?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-wearing-a-pair-of-black-work-boots-and-blue-jeans-QE-EpRr8OkM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

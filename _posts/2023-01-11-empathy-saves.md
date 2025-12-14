@@ -4,7 +4,6 @@ title: "Empathy Saves"
 date: 2023-01-11
 ---
 
-![Featured image](/images/empathy-saves.jpeg)
 
 As I was walking around downtown the other day, this graffiti caught my eye.
 

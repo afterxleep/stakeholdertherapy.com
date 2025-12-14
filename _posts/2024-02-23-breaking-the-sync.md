@@ -4,7 +4,6 @@ title: "Breaking the ‘sync’"
 date: 2024-02-23
 ---
 
-![Featured image](/images/desk.jpg)
 
 We’ve been duping ourselves, believing that packing a virtual room with faces on a screen every week fosters inclusivity, collaboration, and productivity. Yet, often, particularly in distributed teams, sync meetings devolve into grids of nodding heads, with only a few voices leading the conversation. 
 

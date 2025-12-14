@@ -4,7 +4,6 @@ title: "Cut the office hours bullshit"
 date: 2024-06-20
 ---
 
-![Featured image](/images/capuzimatti-1480x617.jpg)
 
 Setting office hours is a pretentious practice from the nineteen-twenties. It’s an attempt to seem accessible while dictating when you can be bothered. Your team doesn’t operate on your clock, and your office hours are just another way to say your calendar is more important than them. 
 
@@ -16,4 +15,3 @@ As a leader, your time belongs to your team. You are there for them, and the lea
 
 Cut the pretense. Your team does not need this bullshit.
 
-Photo by [Sergio Capuzzimati](https://unsplash.com/@sergio_capuzzimati?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on Unsplash

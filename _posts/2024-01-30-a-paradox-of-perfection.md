@@ -4,7 +4,6 @@ title: "A paradox of perfection"
 date: 2024-01-30
 ---
 
-![Featured image](/images/duality-1480x846.jpg)
 
 There’s a narrative in tech companies that often goes untold: “Open product feedback.” It’s a tale of transformation. Not the kind celebrated in startup blogs, but the kind that slowly eats into the company itself. A vibrant and innovative culture turned into an over-calculated shadow of its past.
 
