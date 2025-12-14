@@ -420,6 +420,25 @@
       border-top: 1px solid #222;
     }
 
+    footer a {
+      color: #fff;
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.2s;
+    }
+
+    footer a:hover {
+      border-bottom-color: #fff;
+    }
+
+    body.light-theme footer a {
+      color: #000;
+    }
+
+    body.light-theme footer a:hover {
+      border-bottom-color: #000;
+    }
+
     /* Responsive */
     @media (max-width: 768px) {
       .container {
@@ -460,7 +479,7 @@
     </main>
 
     <footer>
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+      <p>&copy; {{ site.time | date: '%Y' }} <a href="https://danielbernal.co/">Daniel Bernal</a></p>
     </footer>
   </div>
   <script>
