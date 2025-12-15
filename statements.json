@@ -1,12 +1,12 @@
 [
     {
-        "title": "Alignment is performance. Purpose won't let you sleep.",
+        "title": "You can fake alignment. Not purpose.",
         "text": "You can nod through any meeting. Agree to any roadmap. Purpose doesn't ask permission. It shows up at 2 a.m., building something no one requested.",
         "link": "https://stakeholdertherapy.com/2025/04/07/2-a-m-dont-lie/",
         "linkText": "2 a.m. don't lie →"
     },
     {
-        "title": "Exhaustion sleeps off. Irrelevance doesn't.",
+        "title": "Burnout is about irrelevance, not exhaustion.",
         "text": "Hard work never broke anyone. Hard work on things that don't matter does. The body recovers. The soul keeps score.",
         "link": "https://stakeholdertherapy.com/2025/07/22/optimized-for-burnout/",
         "linkText": "Optimized for burnout →"
@@ -24,7 +24,7 @@
         "linkText": "Professional courtesy →"
     },
     {
-        "title": "Spreadsheets exist so decisions don't need owners.",
+        "title": "Frameworks exist so decisions don't need owners.",
         "text": "Everyone knows the answer before the framework starts. The process isn't for clarity. It's for cover.",
         "link": "https://stakeholdertherapy.com/2025/09/30/decision-laundering/",
         "linkText": "Decision laundering →"
@@ -42,7 +42,7 @@
         "linkText": "Simple dies here →"
     },
     {
-        "title": "We police words. Thoughts police themselves.",
+        "title": "The best people aren't necessarily the agreeable ones.",
         "text": "Challenge vocabulary, get a workshop. Challenge how things work, get buried in process until you stop.",
         "link": "https://stakeholdertherapy.com/2025/08/11/dissidents/",
         "linkText": "Dissidents →"
@@ -65,23 +65,11 @@
         "link": "https://stakeholdertherapy.com/2025/03/26/resistance/",
         "linkText": "Resistance →"
     },
-    {
-        "title": "The ones who cut corners now guard the standards. Everyone sees it but them.",
-        "text": "Yesterday's shortcuts become today's sacred process. Convenient amnesia makes the worst gatekeepers.",
-        "link": "https://stakeholdertherapy.com/2025/03/18/convenient-amnesia/",
-        "linkText": "Convenient amnesia →"
-    },
-    {
+        {
         "title": "Rules followed perfectly produce mediocrity perfectly.",
         "text": "Mastery isn't compliance. It's knowing which boxes exist to be checked and which exist to be ignored.",
         "link": "https://stakeholdertherapy.com/2025/02/04/painting-by-numbers/",
         "linkText": "Painting by numbers →"
-    },
-    {
-        "title": "Distance isn't professionalism. It's permission not to care.",
-        "text": "Detachment feels mature. It's just a way to avoid the weight of whether what you build matters to anyone.",
-        "link": "https://stakeholdertherapy.com/2024/06/30/make-it-personal/",
-        "linkText": "Make it personal →"
     },
     {
         "title": "Indispensable in one place. Useless everywhere else.",
@@ -96,7 +84,7 @@
         "linkText": "A paradox of perfection →"
     },
     {
-        "title": "The status quo wins by being known, not good.",
+        "title": "The status quo wins by being familiar, not good.",
         "text": "We cling to bad situations because familiar pain beats uncertain change. Comfort is the enemy dressed as a friend.",
         "link": "https://stakeholdertherapy.com/2023/06/01/the-status-quo-bias/",
         "linkText": "The status quo bias →"
@@ -108,7 +96,7 @@
         "linkText": "Do Nothing →"
     },
     {
-        "title": "The urgency is manufactured. The burnout is real.",
+        "title": "Urgency is manufactured. The burnout is real.",
         "text": "Deadlines feel like life or death. They're not. But treating them that way will kill you anyway.",
         "link": "https://stakeholdertherapy.com/2022/09/20/were-not-saving-lives-here/",
         "linkText": "We're not saving lives here →"
@@ -120,7 +108,7 @@
         "linkText": "Embrace Risk →"
     },
     {
-        "title": "Loyalty in good times costs nothing. That's why it's worthless.",
+        "title": "Loyalty in good times costs nothing.",
         "text": "Support means showing up when it's expensive. Paper trails aren't backup. They're betrayal with documentation.",
         "link": "https://stakeholdertherapy.com/2025/06/16/emotional-insurance-fraud/",
         "linkText": "Emotional insurance fraud →"
@@ -136,11 +124,5 @@
         "text": "Blame feels productive. It isn't. Ownership doesn't need an audience.",
         "link": "https://stakeholdertherapy.com/2024/08/26/call-dibs/",
         "linkText": "Call Dibs →"
-    },
-    {
-        "title": "Office hours say your calendar matters more than your team.",
-        "text": "Availability on your terms isn't availability. It's theater. Leadership means they set the schedule, not you.",
-        "link": "https://stakeholdertherapy.com/2024/06/20/cut-the-office-hours-bullshit/",
-        "linkText": "Cut the office hours bullshit →"
     }
 ]
