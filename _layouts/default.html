@@ -47,7 +47,8 @@
     body.light-theme header p,
     body.light-theme .statement p,
     body.light-theme .recent-posts h2,
-    body.light-theme .most-read h2 {
+    body.light-theme .most-read h2,
+    body.light-theme .archive-month {
       color: #666;
     }
 
@@ -279,28 +280,33 @@
       margin-bottom: 40px;
     }
 
+    .archive-month {
+      color: #666;
+      font-size: 0.9rem;
+      font-weight: 400;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      margin-top: 40px;
+      margin-bottom: 20px;
+    }
+
+    .archive h2:first-of-type {
+      margin-top: 0;
+    }
+
     .archive-list {
       list-style: none;
+      margin-bottom: 0;
     }
 
     .archive-list li {
-      margin-bottom: 20px;
-      display: flex;
-      align-items: baseline;
-      gap: 20px;
-    }
-
-    .archive-list .date {
-      color: #666;
-      font-size: 0.9rem;
-      font-family: 'Courier New', monospace;
-      min-width: 100px;
+      margin-bottom: 12px;
     }
 
     .archive-list a {
       color: #fff;
       text-decoration: none;
-      font-size: 1.2rem;
+      font-size: 1.3rem;
       font-weight: 600;
       border-bottom: 2px solid transparent;
       transition: border-color 0.2s;

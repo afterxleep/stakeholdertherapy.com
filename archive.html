@@ -6,19 +6,20 @@ permalink: /archive/
 
 <section class="archive">
   <h1>All Posts</h1>
-  <ul class="archive-list">
-    {% assign current_month = "" %}
-    {% for post in site.posts %}
-      {% assign post_month = post.date | date: "%b. %Y" %}
-      <li>
-        {% if post_month != current_month %}
-          <span class="date">{{ post_month }}</span>
-          {% assign current_month = post_month %}
-        {% else %}
-          <span class="date"></span>
-        {% endif %}
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
+  {% assign current_month = "" %}
+  {% for post in site.posts %}
+    {% assign post_month = post.date | date: "%B %Y" %}
+    {% if post_month != current_month %}
+      {% if current_month != "" %}
+        </ul>
+      {% endif %}
+      <h2 class="archive-month">{{ post_month }}</h2>
+      <ul class="archive-list">
+      {% assign current_month = post_month %}
+    {% endif %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
   </ul>
 </section>
