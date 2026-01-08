@@ -569,11 +569,13 @@
 <body class="layout-{{ page.layout }}">
   <button class="theme-toggle" onclick="toggleTheme()">○</button>
 
+  {% unless page.url == "/" %}
   <header class="site-header">
     <nav class="site-nav">
       <a href="/">← Stakeholder Therapy</a> | <a href="/archive/">All posts</a>
     </nav>
   </header>
+  {% endunless %}
 
   <div class="container">
     <main>
