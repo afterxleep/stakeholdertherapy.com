@@ -27,11 +27,7 @@
       color: #000;
     }
 
-    body.light-theme header {
-      border-bottom-color: #ddd;
-    }
-
-    body.light-theme header h1 a,
+    body.light-theme footer h1 a,
     body.light-theme .statement h1,
     body.light-theme .statement a,
     body.light-theme .post-list a,
@@ -44,7 +40,7 @@
       color: #000;
     }
 
-    body.light-theme header p,
+    body.light-theme footer p,
     body.light-theme .statement p,
     body.light-theme .recent-posts h2,
     body.light-theme .most-read h2,
@@ -66,7 +62,7 @@
     }
 
     body.light-theme .post-content a:hover,
-    body.light-theme header h1 a:hover,
+    body.light-theme footer h1 a:hover,
     body.light-theme .statement a:hover,
     body.light-theme .post-list a:hover,
     body.light-theme .view-all-link:hover,
@@ -143,34 +139,6 @@
       max-width: 700px;
     }
 
-    /* Header */
-    header {
-      margin-bottom: 40px;
-      padding-bottom: 40px;
-      border-bottom: 1px solid #222;
-    }
-
-    header h1 {
-      font-size: 1.5rem;
-      font-weight: 600;
-      margin-bottom: 5px;
-    }
-
-    header h1 a {
-      color: #fff;
-      text-decoration: none;
-      border-bottom: 2px solid transparent;
-      transition: border-color 0.2s;
-    }
-
-    header h1 a:hover {
-      border-bottom-color: #fff;
-    }
-
-    header p {
-      color: #666;
-      font-size: 1rem;
-    }
 
     /* Manifesto Section */
     .manifesto {
@@ -423,27 +391,68 @@
       margin-top: auto;
       padding: 40px 0;
       text-align: center;
-      color: #555;
-      font-size: 0.9rem;
       border-top: 1px solid #222;
     }
 
-    footer a {
+    footer h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 5px;
+    }
+
+    footer h1 a {
+      color: #fff;
+      text-decoration: none;
+      border-bottom: 2px solid transparent;
+      transition: border-color 0.2s;
+    }
+
+    footer h1 a:hover {
+      border-bottom-color: #fff;
+    }
+
+    footer p {
+      color: #666;
+      font-size: 1rem;
+      margin-bottom: 10px;
+    }
+
+    footer p:last-child {
+      margin-bottom: 0;
+    }
+
+    footer p a {
       color: #fff;
       text-decoration: none;
       border-bottom: 1px solid transparent;
       transition: border-color 0.2s;
     }
 
-    footer a:hover {
+    footer p a:hover {
       border-bottom-color: #fff;
     }
 
-    body.light-theme footer a {
+    body.light-theme footer {
+      border-top-color: #ddd;
+    }
+
+    body.light-theme footer h1 a {
       color: #000;
     }
 
-    body.light-theme footer a:hover {
+    body.light-theme footer h1 a:hover {
+      border-bottom-color: #000;
+    }
+
+    body.light-theme footer p {
+      color: #666;
+    }
+
+    body.light-theme footer p a {
+      color: #000;
+    }
+
+    body.light-theme footer p a:hover {
       border-bottom-color: #000;
     }
 
@@ -457,9 +466,6 @@
         margin-bottom: 40px;
       }
 
-      header {
-        margin-bottom: 30px;
-      }
 
       .archive-list li {
         flex-direction: column;
@@ -484,17 +490,14 @@
 <body class="layout-{{ page.layout }}">
   <button class="theme-toggle" onclick="toggleTheme()">○</button>
   <div class="container">
-    <header>
-      <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-      <p>{{ site.description }}</p>
-    </header>
-
     <main>
       {{ content }}
     </main>
 
     <footer>
-      <p><a href="https://danielbernal.co/">&copy; {{ site.time | date: '%Y' }} Daniel Bernal</a></p>
+      <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+      <p>{{ site.description }}</p>
+      <p><a href="https://danielbernal.co/">Daniel Bernal</a></p>
     </footer>
   </div>
   <script>
