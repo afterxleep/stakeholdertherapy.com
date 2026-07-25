@@ -1,7 +1,11 @@
 title: Stakeholder Therapy
-description: Unfiltered takes on life, work and people. (Fictional. Obviously.)
+description: Stakeholder Therapy has moved to danielbernal.co/blog
 url: "https://stakeholdertherapy.com"
 baseurl: ""
+
+# This site is now redirect-only. Every post URL resolves to its counterpart
+# under https://danielbernal.co/blog/ via jekyll-redirect-from. The content
+# itself lives in the afterxleep/danielbernal.co repository.
 
 # Author
 author:
@@ -40,7 +44,9 @@ include:
   - robots.txt
 
 # Plugins
+# jekyll-feed and jekyll-sitemap are intentionally absent: feed.xml is now a
+# hand-written "we moved" feed, and a redirect-only site should not publish a
+# sitemap of dead URLs.
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
+  - jekyll-redirect-from

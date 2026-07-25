@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://stakeholdertherapy.com/sitemap.xml
+
+# No sitemap: this site is redirect-only. The canonical sitemap now lives at
+# https://danielbernal.co/sitemap.xml
