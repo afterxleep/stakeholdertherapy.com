@@ -2,8 +2,10 @@
 layout: post
 title: "Decision laundering"
 date: 2025-09-30
+image: /images/ana-maria-stancu-_OsC7iODF30-unsplash.jpg
 ---
 
+![Featured image](/images/ana-maria-stancu-_OsC7iODF30-unsplash.jpg)
 
 Simple questions have become terrifying. Is this important? What should we fix first? Who gives a shit about this?
 
@@ -21,3 +23,5 @@ We spend days gaming our own barriers. Making spreadsheets agree with common sen
 
 We traded judgment for formulas. Thinking for process. We all know it’s idiotic but follow it anyway.
 
+Photo by [Ana-Maria Stancu](https://unsplash.com/@anastancu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/baker-arranging-pastries-in-a-display-case-_OsC7iODF30?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+{: .photo-credit}

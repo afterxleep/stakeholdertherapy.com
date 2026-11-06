@@ -2,8 +2,10 @@
 layout: post
 title: "Alignment"
 date: 2025-12-13
+image: /images/sangga-rima-roman-selia-Nvwza6WtIpc-unsplash.jpg
 ---
 
+![Featured image](/images/sangga-rima-roman-selia-Nvwza6WtIpc-unsplash.jpg)
 
 Standard sounds generous. Reduce confusion, increase shared knowledge. Everyone aligned.
 
@@ -17,3 +19,5 @@ Empowerment means more options. Trusting people to choose. Allowing the best pra
 
 So we standardize instead.
 
+Photo by [Sangga Rima Roman Selia](https://unsplash.com/@sxy_selia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/gray-concrete-bricks-painted-in-blue-Nvwza6WtIpc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+{: .photo-credit}

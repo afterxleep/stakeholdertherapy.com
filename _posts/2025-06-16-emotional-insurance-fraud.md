@@ -2,8 +2,10 @@
 layout: post
 title: "Emotional insurance fraud"
 date: 2025-06-16
+image: /images/richard-bell-HV8PJoUsQ-A-unsplash.jpg
 ---
 
+![Featured image](/images/richard-bell-HV8PJoUsQ-A-unsplash.jpg)
 
 We’ve normalized this middle ground where people can appear supportive while playing it safe. 
 
@@ -17,3 +19,5 @@ But that’s too scary for most people. We’d rather play this game where every
   
 We are deliberately killing the willingness to take meaningful risks together, yet we wonder why nobody trusts anybody anymore.
 
+Photo by [Richard Bell](https://unsplash.com/@maplerockdesign?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-wall-with-graffiti-on-it-HV8PJoUsQ-A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+{: .photo-credit}

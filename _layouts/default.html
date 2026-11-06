@@ -61,6 +61,10 @@
       border-bottom-color: #999;
     }
 
+    body.light-theme .post-content .photo-credit {
+      color: #999;
+    }
+
     body.light-theme .post-content a:hover,
     body.light-theme footer h1 a:hover,
     body.light-theme .statement a:hover,
@@ -362,6 +366,18 @@
       height: auto;
       margin: 40px 0;
       border-radius: 8px;
+    }
+
+    /* Featured image sits right under the date, so it carries no top margin */
+    .post-content > p:first-child img {
+      display: block;
+      margin-top: 0;
+    }
+
+    .post-content .photo-credit {
+      font-size: 0.75rem;
+      color: #777;
+      margin-top: 40px;
     }
 
     .post-content p {
